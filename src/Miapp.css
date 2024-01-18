@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+#root{
+    width: 100%;
+}
+
+h1{
+    color:lightpink;
+}
+
+#btn_incrementa{
+    background-color: rgba(255, 0, 255, 0.425);
+
+}
+
+#btn_Decrementa{
+    background-color: pink;
+}
+
+#btn_Reinicia{
+    background-color: deeppink;
+}
+
+.btns{
+    color: white;
+    margin-left: 1px;
+    margin-right: 1px;
+}
